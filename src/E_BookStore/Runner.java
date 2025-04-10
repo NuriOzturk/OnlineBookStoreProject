@@ -1,4 +1,4 @@
-package Kutuphane;
+package E_BookStore;
 
 import java.util.Scanner;
 

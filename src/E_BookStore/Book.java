@@ -1,4 +1,4 @@
-package Kutuphane;
+package E_BookStore;
 
 class Book {
     private int bookNumber;
